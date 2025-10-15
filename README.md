@@ -75,5 +75,3 @@ La documentación interactiva está disponible en [http://localhost:8000/docs](h
 - Puedes modificar y extender los endpoints según tus necesidades.
 
 ---
-
-## 📄
