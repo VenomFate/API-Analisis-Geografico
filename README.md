@@ -9,8 +9,8 @@ Esta API REST, construida con FastAPI, permite consultar información de países
 ### 1. Clona el repositorio
 
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
-cd API_Analisis_Geografico
+git clone https://github.com/VenomFate/API-Analisis-Geografico.git
+cd API-Analisis-Geografico
 ```
 
 ### 2. Construye la imagen Docker
